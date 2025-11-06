@@ -43,7 +43,7 @@ const ProductDetails = () => {
                             {specification.map((item, idx) => <li className="list-none" key={idx}>{item}</li>)}
                         </div>
                         <p className="font-bold text-[#09080F]">Rating:</p>
-                        <div className="flex">
+                        <div className="flex w-40 gap-3">
                             <Rating
                                 style={{ maxWidth: 180, }}
                                 value={ratingNum}
@@ -52,7 +52,7 @@ const ProductDetails = () => {
                             <span className="text-base p-2 rounded-2xl opacity-80 text-black px-2 font-bold bg-gray-400">{rating}</span>
                         </div>
 
-                        <div className="pt-3">
+                        <div className="flex justify-center w-32 gap-3 pt-3">
                             <button onClick={() => addToLs(product_id)} className="btn rounded-2xl bg-purple-700 text-white">Add to Cart <FiShoppingCart></FiShoppingCart></button>
                             <button onClick={() => addWhToLs(product_id)} className="cursor-pointer shadow-2xl bg-white rounded-full p-2 border-1"><MdFavoriteBorder></MdFavoriteBorder></button>
                         </div>
