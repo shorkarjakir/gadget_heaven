@@ -53,8 +53,8 @@ const ProductDetails = () => {
                         </div>
 
                         <div className="pt-3">
-                            <a href=""><button onClick={() => addToLs(product_id)} className="btn rounded-2xl bg-purple-700 text-white">Add to Cart <FiShoppingCart></FiShoppingCart></button></a>
-                            <a className="px-3" href=""><button onClick={() => addWhToLs(product_id)} className="cursor-pointer shadow-2xl bg-white rounded-full p-2 border-1"><MdFavoriteBorder></MdFavoriteBorder></button></a>
+                            <button onClick={() => addToLs(product_id)} className="btn rounded-2xl bg-purple-700 text-white">Add to Cart <FiShoppingCart></FiShoppingCart></button>
+                            <button onClick={() => addWhToLs(product_id)} className="cursor-pointer shadow-2xl bg-white rounded-full p-2 border-1"><MdFavoriteBorder></MdFavoriteBorder></button>
                         </div>
                     </div>
                 </div>

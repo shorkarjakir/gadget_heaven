@@ -16,7 +16,7 @@ const WLProducts = ({ item }) => {
                     <p className="text-xs p-1 opacity-75">{description}</p>
                     <p className="font-bold">Price: ${price}</p>
                 </div>
-                <a href=""><button onClick={() => handleRemove(product_id)} className="cursor-pointer text-2xl"><CgClose /></button></a>
+                <button onClick={() => handleRemove(product_id)} className="cursor-pointer text-2xl"><CgClose /></button>
             </div>
         </div>
     );
