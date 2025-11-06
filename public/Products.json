@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "product_id": "P001",
+      "product_title": "Wireless Noise-Canceling Headphones",
+      "product_image": "https://i.imgur.com/FvTaHg1.jpeg",
+      "category": "Electronics",
+      "price": 120,
+      "description": "Over-ear Bluetooth headphones with active noise cancellation.",
+      "specification": ["Bluetooth 5.0", "30hr battery life", "Built-in mic"],
+      "availability": true,
+      "rating": 4.6,
+      "brand": "SoundMax"
+    },
+    {
+      "product_id": "P002",
+      "product_title": "Smartphone 128GB",
+      "product_image": "https://i.imgur.com/zsvWrCn.jpeg",
+      "category": "Electronics",
+      "price": 450,
+      "description": "Mid-range smartphone with 128GB storage and dual cameras.",
+      "specification": ["6.5-inch display", "Dual SIM", "Fast charging"],
+      "availability": true,
+      "rating": 4,
+      "brand": "NovaTech"
+    },
+    {
+      "product_id": "P003",
+      "product_title": "4K Ultra HD Smart TV",
+      "product_image": "https://i.imgur.com/F3j1L8O.jpeg",
+      "category": "Electronics",
+      "price": 800,
+      "description": "55-inch 4K smart TV with HDR and built-in apps.",
+      "specification": ["HDR10+", "3 HDMI ports", "Voice control"],
+      "availability": true,
+      "rating": 4.7,
+      "brand": "ViewPro"
+    },
+    {
+      "product_id": "P004",
+      "product_title": "Gaming Laptop",
+      "product_image": "https://i.imgur.com/ww04oDT.jpeg",
+      "category": "Electronics",
+      "price": 1100,
+      "description": "High-performance laptop for gaming and productivity.",
+      "specification": ["RTX 4060 GPU", "16GB RAM", "1TB SSD"],
+      "availability": false,
+      "rating": 4.8,
+      "brand": "GameX"
+    },
+    {
+      "product_id": "P005",
+      "product_title": "Bluetooth Speaker",
+      "product_image": "https://i.imgur.com/V3Jipdh.jpeg",
+      "category": "Electronics",
+      "price": 75,
+      "description": "Portable waterproof speaker with deep bass.",
+      "specification": ["IPX7 waterproof", "12hr playtime", "USB-C charging"],
+      "availability": true,
+      "rating": 4.4,
+      "brand": "BeatBox"
+    },
+    {
+      "product_id": "P006",
+      "product_title": "Smartwatch Series 5",
+      "product_image": "https://i.imgur.com/acQTtEv.jpeg",
+      "category": "Electronics",
+      "price": 200,
+      "description": "Stylish smartwatch with fitness tracking and notifications.",
+      "specification": ["Heart rate monitor", "Sleep tracking", "GPS"],
+      "availability": true,
+      "rating": 4.5,
+      "brand": "TimeFit"
+    },
+    {
+      "product_id": "P007",
+      "product_title": "Office Chair Ergonomic",
+      "product_image": "https://i.imgur.com/3dclHgM.jpeg",
+      "category": "Furniture",
+      "price": 180,
+      "description": "Ergonomic office chair with lumbar support.",
+      "specification": ["Adjustable height", "Mesh backrest", "360° swivel"],
+      "availability": true,
+      "rating": 4.2,
+      "brand": "ErgoSeat"
+    },
+    {
+      "product_id": "P008",
+      "product_title": "Wooden Study Desk",
+      "product_image": "https://i.imgur.com/OPtuf2R.jpeg",
+      "category": "Furniture",
+      "price": 250,
+      "description": "Compact wooden desk with storage drawers.",
+      "specification": ["Solid oak", "2 drawers", "120x60 cm size"],
+      "availability": false,
+      "rating": 4.1,
+      "brand": "HomeCraft"
+    },
+    {
+      "product_id": "P009",
+      "product_title": "Running Shoes",
+      "product_image": "https://i.imgur.com/F3j1L8O.jpeg",
+      "category": "Sportswear",
+      "price": 95,
+      "description": "Lightweight running shoes for daily training.",
+      "specification": ["Breathable mesh", "Cushion sole", "Non-slip grip"],
+      "availability": true,
+      "rating": 4.3,
+      "brand": "SpeedRun"
+    },
+    {
+      "product_id": "P010",
+      "product_title": "Yoga Mat",
+      "product_image": "https://i.imgur.com/0YiGb1q.jpeg",
+      "category": "Sportswear",
+      "price": 60,
+      "description": "Eco-friendly yoga mat with non-slip surface.",
+      "specification": ["6mm thickness", "Easy to clean", "Carrying strap"],
+      "availability": true,
+      "rating": 4.5,
+      "brand": "ZenFlex"
+    }
+  ]
+}
