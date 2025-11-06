@@ -1,16 +1,16 @@
-# React + Vite
+# Project Basic Information:
+- Name: Gadget Heaven
+- Type: E-commerce
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Technoloy Used:
+- React,
+- Tailwind CSS,
+- React Library for (Icons, Chart)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Main Feature:
+- Add to cart Feature.
+- Add to Wishlist feature.
+- Dashboard for all Cart and Wishlist showing.
+- Total Price for all your cart.
+- Sort by price feature.
+- Statistics for all your cart item.
