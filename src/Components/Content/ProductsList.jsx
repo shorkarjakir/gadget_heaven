@@ -8,7 +8,7 @@ const ProductsList = () => {
     const [selectedCategory, setSelectedCategory] = useState("All Products");
 
     useEffect(() => {
-        fetch('/public/Products.json')
+        fetch('/Products.json')
             .then(res => res.json())
             .then(data => {
                 setProducts(data.products);
